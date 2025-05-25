@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Divleen Kaur
 
-Welcome to my GitHub! I'm currently a freshman pursuing B.Tech. in Computer Science Engineering.
+Welcome to my GitHub! I'm currently in my freshman year, pursuing B.Tech. in Computer Science Engineering.
 
 <!-- Animated SVG Component: A floating colorful circle -->
 <p align="right">
