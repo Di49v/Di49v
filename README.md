@@ -12,7 +12,7 @@
 ### 💫 About Me
 I am a Computer Science student passionate about **low-level systems**, **cybersecurity**, and **AI**. Currently, I’m focusing on mastering Data Structures & Algorithms and building scalable applications.
 
-- 🎓 **Academics:** B.Tech in CSE (Sophomore) | 9.39 CGPA.
+- 🎓 **Academics:** B.Tech in CSE (Sophomore) | 9.32 CGPA.
 - 🚀 **Programs:** **LinkedIn CoachIn** Mentee (Class of 2026).
 - 🏆 **Achievements:** National Finalist at the **Odoo Hackathon**.
 - 🎸 **Interests:** Learning fingerstyle guitar and exploring Linux vulnerabilities.
