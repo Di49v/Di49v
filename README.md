@@ -45,7 +45,7 @@ I am a Computer Science student passionate about **low-level systems**, **cybers
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/divleen-kaur-306900324/)
+- **LinkedIn:** [linkedin.com/in/divleen-kaur-306900324/](https://www.linkedin.com/in/divleen-kaur-306900324/)
 - **Portfolio:** *Coming Soon*
 
 > "Fear kills more dreams than failure ever will."
