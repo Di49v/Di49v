@@ -1,45 +1,51 @@
 # 👋 Hi, I'm Divleen Kaur
+**Computer Science Engineering Student | 2nd Year**
 
-Welcome to my GitHub! I'm currently in my sophomore year, pursuing B.Tech. in Computer Science Engineering.
-
-<!-- Animated SVG Component: A floating colorful circle -->
-<p align="right">
-  <svg width="60" height="60">
-    <circle cx="30" cy="30" r="24" fill="url(#gradient)">
-      <animate attributeName="cy" values="30;20;30" dur="1.8s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="24;28;24" dur="1.8s" repeatCount="indefinite"/>
-    </circle>
-    <defs>
-      <linearGradient id="gradient" x1="0" y1="0" x2="60" y2="60" gradientUnits="userSpaceOnUse">
-        <stop stop-color="#5efce8"/>
-        <stop offset="1" stop-color="#736efe"/>
-      </linearGradient>
-    </defs>
-  </svg>
+<p align="left">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/Cybersecurity-🛡️-blue?style=flat-square" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/OS--Systems-⚙️-gray?style=flat-square" alt="Systems" />
 </p>
 
 ---
 
-## 👀 Profile Views
+### 💫 About Me
+I am a Computer Science student passionate about **low-level systems**, **cybersecurity**, and **AI**. Currently, I’m focusing on mastering Data Structures & Algorithms and building scalable applications.
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Di49v&color=blue&style=flat-square)
-
-## 🚀 Skills
-- **Frontend:** HTML, CSS, Bootstrap, JavaScript
-- **Backend:** Python, Flask
-- **Database:** MySQL
-
-## 🛡️ Interests
-- Cybersecurity
-- Data Structures & Algorithms (DSA)
-- Linux
-- Playing Guitar 🎸
-
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/divleen-kaur-306900324)
-
-> "Fear kills more dreams than failure ever will."
+- 🎓 **Academics:** B.Tech in CSE (Sophomore) | 9.39 CGPA.
+- 🚀 **Programs:** **LinkedIn CoachIn** Mentee (Class of 2026).
+- 🏆 **Achievements:** National Finalist at the **Odoo Hackathon**.
+- 🎸 **Interests:** Learning fingerstyle guitar and exploring Linux vulnerabilities.
 
 ---
 
-Feel free to explore my repositories and projects!
+### 🛠️ Tech Stack
+
+**Languages & Systems** ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Bash](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**Development & Tools** ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Activity
+> [!NOTE]
+> *Private contributions are active, but language stats may vary based on repository visibility.*
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Di49v&show_icons=true&theme=transparent&hide_border=true&title_color=736efe&icon_color=5efce8" alt="Divleen's Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Di49v&layout=compact&theme=transparent&hide_border=true&title_color=736efe" alt="Top Languages" width="300" />
+</p>
+
+---
+
+### 📫 Let's Connect
+- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/divleen-kaur-306900324/)
+- **Portfolio:** *Coming Soon*
+
+> "Fear kills more dreams than failure ever will."
